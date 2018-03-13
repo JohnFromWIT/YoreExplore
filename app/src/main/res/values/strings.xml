@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Yore Explore</string>
+    <string name="btn_CloseSplash">Explore</string>
 </resources>
