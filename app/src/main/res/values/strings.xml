@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Yore Explore</string>
     <string name="btn_CloseSplash">Explore</string>
+    <string name="btn_AddSite">Add</string>
     <string name="Alt_AppLogo">Yore Explore Logo</string>
+    <string name="hint_siteTitle">Site</string>
     <string name="Slogan">Do you know the way?</string>
+    <string name="menu_addSite">Add</string>
 </resources>
